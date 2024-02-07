@@ -1,0 +1,8 @@
+# Secrets
+api-docs.json
+keys
+logs
+archive
+# VSCode Configs
+.vscode
+__pycache__
